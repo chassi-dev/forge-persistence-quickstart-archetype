@@ -8,7 +8,7 @@
 
 
   <scm>
-    <url>https://github.com/saas-forge/forge-quickstart-archetype.git</url>
+    <url>https://github.com/saas-forge/forge-persistence-quickstart-archetype.git</url>
   </scm>
 
   <properties>
